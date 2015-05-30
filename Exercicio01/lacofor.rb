@@ -9,3 +9,4 @@ end
 # end	
 #FAz a mesma coisa 
 langs.each {|lang|puts lang}
+
