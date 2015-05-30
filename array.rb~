@@ -1,0 +1,12 @@
+nome = ["Ruby","Java-Android","PHP"]
+
+puts nome
+
+nome << "Pascal"
+
+puts nome 
+
+
+pessoa = {:nome=>"Mauricio",:email=>"mauricioeduardo@hotmail.com"}
+puts pessoa[:nome]
+puts pessoa[:email]
