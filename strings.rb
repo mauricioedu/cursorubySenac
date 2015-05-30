@@ -18,7 +18,7 @@ puts curso
 citacao = "\"Ruby é incrivel\""
 puts citacao
 
-	if(nome == "Mauricio")
+	if(nome == "Eduardo")
 		puts ("ok")
 	end
 	
